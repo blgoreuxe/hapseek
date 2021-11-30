@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hapseek | About</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" type="image/jpg" href="Hapseek-modified.png"/>
+  </head>
+  <body>
+    <div class="header">
+      <a href="#default" class="logo">Hapseek</a>
+      <div class="header-right">
+        <a href="https://hapseek.brandongore502.repl.co/">Home</a>
+        <a href="projects">Projects</a>
+        <a class="active" href="about">About</a>
+      </div>
+    </div>
+    <div class="title">
+      <h1 class="heading">About</h1>
+      <h3 class="subtitle">The official hapseek about page</h3>
+    </div>
+    <img class="haplogo" src="Hapseek-modified.png"; alt="Hapseek Logo">
+    <p style="text-align: center;"><span id="W_Name2">Hapseek</span> is a <span id="W_Type1">Application development</span> Company. Here we will provide you only interesting content, which you will like very much. We're dedicated to providing you the best of <span id="W_Type2">Applications</span>, with a focus on dependability and <span id="W_Spec">App Creation</span>. We're working to turn our passion for <span id="W_Type3">Applications</span> into a booming app development company. We hope you enjoy our <span id="W_Type4">Applications</span> as much as we enjoy offering them to you.</p>
+    <p style="text-align: center;">We will keep posting more important posts on our Website for all of you. Please give your support and love.</p>
+    <p style="font-weight: bold; text-align: center;">Thanks For Visiting Our Site<br><br>
+    <span font-size: 16px; font-weight: bold; text-align: center;">Have a fabulous day!</span></p>
+    <script src="script.js"></script>
+  </body>
+</html>
